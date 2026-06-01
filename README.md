@@ -25,6 +25,10 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 * Java 21 or newer
 * A launcher that supports Fabric
 
+**Install Java if you don't have.**
+Java 21: https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
+Java 22: https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html
+
 ## Installation
 
 **Low End Devices (TLauncher Only)**: https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/Low_End_Devices_Win11
@@ -63,11 +67,11 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 
 9. Launch your preferred launcher.
 
-### TLauncher
+### For TLauncher
 
 1. Open TLauncher.
-2. Refresh the version list if necessary.
-3. Select **MC-1.21.1-Fabric-Java-Client**.
+2. Refresh the version list necessary.
+3. Select **AnonymousKL_1.21.1_Client_H/L (H and L are versions)**.
 4. Click **Enter the Game**.
 
 ### Official Minecraft Launcher
@@ -77,12 +81,16 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 3. Create a new installation if needed.
 4. Select the installed Fabric version.
 5. Launch the game.
+6. Go to the folder in which the installation was created.
+7. Copy and overwrite files in the game folder (its important, please copy all the folder's in 'saves' folder as backup)
 
 ### SKLauncher / ATLauncher / Prism Launcher / MultiMC
 
 1. Import or select the installed Minecraft version.
 2. Ensure Fabric 1.21.1 is selected.
 3. Launch the game.
+4. Go to the folder in which the installation was created.
+5. Copy and overwrite files in the game folder (its important, please copy all the folder's in 'saves' folder as backup)
 
 ## Features
 
