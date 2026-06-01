@@ -33,7 +33,7 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 
 ### Clean Installation (Recommended)
 
-1. Download the latest release from the **Releases** section.
+1. Download the latest release from the **Releases** section. (or the links above)
 
 2. Extract the ZIP file using Windows Explorer, WinRAR, or 7-Zip.
 
