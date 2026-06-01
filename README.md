@@ -10,7 +10,7 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 > If you are new to Minecraft modpacks, please watch a tutorial on installing Fabric modpacks before creating an issue. Most installation problems are caused by incorrect setup.
 Watch some youtube video's for modpack installation.
 > 
->**TLauncher is safe to install**, most antiviruses flag it as a PUP because it has an optional browser installer in it. See it yourself.
+>**TLauncher is safe to install**, most antiviruses flag it as a PUP because it has an optional browser installer (Oper GX) in it. See it yourself.
 >All versions have been tested for malware, it is safe to download.
 Malware Test Results:
 
