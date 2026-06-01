@@ -23,7 +23,7 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 
 * Minecraft Java Edition 1.21.1
 * Java 21 or newer
-* A launcher that supports Fabric
+* A launcher that supports Fabric (almost all of em do)
 
 **Install Java if you don't have.**
 
