@@ -27,6 +27,9 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 
 ## Installation
 
+**Low End Devices (TLauncher Only)**: https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/Low_End_Devices_Win11
+**High End Devices (TLauncher Only)**: https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/High_End_Devices_Win11
+
 ### Clean Installation (Recommended)
 
 1. Download the latest release from the **Releases** section.
