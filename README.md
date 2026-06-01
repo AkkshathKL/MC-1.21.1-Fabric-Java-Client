@@ -37,13 +37,17 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 
 2. Extract the ZIP file using Windows Explorer, WinRAR, or 7-Zip.
 
-3. Press **Windows + R**.
+3. Go to File explorer and double click on the location bar.
 
 4. Type:
 
    ```text
    %appdata%
    ```
+
+   Image for reference:
+
+   <img width="1678" height="1048" alt="scrnsht" src="https://github.com/user-attachments/assets/889c24c9-3a97-4ac5-af06-c1b1aac37bbe" />
 
 5. Press **Enter**.
 
