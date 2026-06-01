@@ -26,6 +26,7 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 * A launcher that supports Fabric
 
 **Install Java if you don't have.**
+
 Java 21: https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
 
 Java 22: https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html
