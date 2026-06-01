@@ -37,9 +37,11 @@ Java 22: https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads
 
 ## Installation
 
-**Low End Devices (TLauncher Only)**: https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/Low_End_Devices_Win11
+**Low End Devices (TLauncher Only)**:
+https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/Low_End_Devices_Win11
 
-**High End Devices (TLauncher Only)**: https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/High_End_Devices_Win11
+**High End Devices (TLauncher Only)**: 
+https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/High_End_Devices_Win11
 
 ### Clean Installation (Recommended)
 
