@@ -8,7 +8,13 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 
 > [!NOTE]
 > If you are new to Minecraft modpacks, please watch a tutorial on installing Fabric modpacks before creating an issue. Most installation problems are caused by incorrect setup.
-Watch some youtube video's for modpack installation
+Watch some youtube video's for modpack installation.
+
+>All versions have been tested for malware, it is safe to download.
+Malware Test Results:
+VERSION 1-A: https://www.virustotal.com/gui/file/a69bacf9e02d80f9b3b4ee20a6d488c6c299b9cd85b04bad2a6597a067343f0c?nocache=1
+VERSION 2-A: https://www.virustotal.com/gui/file/52284776860f3bb5670fbdc014497f896139edcb37246244968b9fc2edd5c9d4?nocache=1
+VERSION 1-B: https://www.virustotal.com/gui/file/e869e809b22d46196499ccb7c571342deb050e9267c07e20e7e04a7edc77a86a?nocache=1
 
 <img width="883" height="552" alt="2026-05-31_16 31 33_optimized_1000" src="https://github.com/user-attachments/assets/c7662b7b-2753-4c2d-83c6-f0a164f917d4" />
 
