@@ -11,7 +11,7 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 Watch some youtube video's for modpack installation.
 > 
 >**TLauncher is safe to install**, most antiviruses flag it as a PUP and Adware because it has an optional browser installer advertisment (Opera GX) in it. You can opt out if you dont want it.
->All versions have been tested for malware, it is safe to download.
+>All versions have been tested for malware, the current version (V2.9365) is safe to download.
 
 Malware Test Results:
 
