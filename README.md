@@ -6,7 +6,7 @@ A performance and visual enhancement **Fabric modpack** for **Minecraft 1.21.1**
 
 ## About
 
-This modpack has been carefully configured for Minecraft 1.21.1 and includes compatibility fixes for **TLSkin & Cape** users. It is intended to provide a smoother, more polished Minecraft experience while remaining easy to install.
+I have configured this for Minecraft 1.21.1 and includes compatibility fixes for **TLSkin & Cape** users. It is intended to provide a smoother, more polished Minecraft experience while remaining easy to install.
 
 > [!CAUTION]
 > If you are new to Minecraft modpacks, please watch a tutorial on installing Fabric modpacks before creating an issue. Most installation problems are caused by incorrect setup.
