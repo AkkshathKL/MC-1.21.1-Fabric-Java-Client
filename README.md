@@ -141,3 +141,5 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 Download, install, launch, and enjoy Minecraft 1.21.1 with an optimized Fabric experience.
 
 <img width="883" height="552" alt="601093820-c7662b7b-2753-4c2d-83c6-f0a164f917d4" src="https://github.com/user-attachments/assets/e2f92e71-f0fa-40b1-87a4-38aef87df040" />
+<img width="1680" height="1050" alt="2026-06-11_15 57 03" src="https://github.com/user-attachments/assets/d4deab99-95fe-4afc-aac3-90c5431e6001" />
+
