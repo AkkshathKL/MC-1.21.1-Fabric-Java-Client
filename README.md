@@ -55,7 +55,7 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 
 **Install TLauncher:** [tlauncher.org](https://tlauncher.org/)
 
-### Download Links
+### MC Modpack Download Links
 
 | Setup | Link |
 |---|---|
