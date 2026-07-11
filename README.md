@@ -16,6 +16,12 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
 > Letter 'L' -> Low-End Gaming Setup's (Most compatible)
 >
 > Word 'Multi'-> Can import the modpack into other launcher's. (Compatibile, not recomended it using TLauncher)
+>
+> Version 1-A -> Tlauncher 'H' version
+>
+> Version 1-B -> Tlauncher 'L' version
+>
+> Version 2-A -> Other Launcher's 'Multi' version
 
 > [!CAUTION]
 > If you are new to Minecraft modpacks, please watch a tutorial on installing Fabric modpacks before creating an issue. Most installation problems are caused by incorrect setup.
