@@ -13,7 +13,7 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 > Watch some youtube video's for modpack installation.
 >
 > **TLauncher is safe to install**, most antiviruses flag it as a PUP and Adware because it has an optional browser installer advertisment (Opera GX) in it. You can opt out if you dont want it.
-> All versions have been tested for malware, the current version (V2.9371) is safe to download.
+> It have been tested for malware (not spyware), the current version (V2.9371) is pretty much safe to download.
 
 ### Malware Test Results
 
@@ -92,8 +92,8 @@ This modpack has been carefully configured for Minecraft 1.21.1 and includes com
 ### For TLauncher
 
 1. Open TLauncher.
-2. Refresh the version list necessary.
-3. Select **AnonymousKL_1.21.1_Client_H/L (H and L are versions)**.
+2. Refresh the version list if necessary.
+3. Select **AnonymousKL_1.21.1_Client_H/L (H and L are versions, H is for highend devices and L is for lowend devices)**.
 4. Click **Enter the Game**.
 
 ### Official Minecraft Launcher
