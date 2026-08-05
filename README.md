@@ -78,7 +78,7 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
 | High End Devices (TLauncher Only) | [Download](https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/High_End_Devices_Win11) |
 | For other Launchers / Official MC, not for TLauncher | [Download](https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/Multi_Distribution_Win11) |
 
-### Clean Installation (Recommended)
+###  For TLauncher (Recommended)
 
 1. Download from the **Releases** section (or the links above).
 2. Extract the ZIP file using Windows Explorer, WinRAR, or 7-Zip.
@@ -90,14 +90,10 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
    ```
 5. Press **Enter**.
 6. Copy the extracted **MC-1.21.1-Fabric-Java-Client** folder.
-9. Launch your preferred launcher.
-
-### For TLauncher
-
-1. Open TLauncher.
-2. Refresh the version list if necessary.
-3. Select **AnonymousKL_1.21.1_Client_H/L (H and L are versions, H is for highend devices and L is for lowend devices)**.
-4. Click **Enter the Game**.
+7. Open TLauncher.
+8. Refresh the version list (NECESSARY).
+9. Select **AnonymousKL_1.21.1_Client_H/L (H and L are versions, H is for highend devices and L is for lowend devices)**.
+10. Click **Enter the Game**.
 
 ### Official Minecraft Launcher
 
@@ -107,35 +103,35 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
 4. Select the installed Fabric version.
 5. Launch the game.
 6. Go to the folder in which the installation was created.
-7. Copy and overwrite files in the game folder (its important, please copy all the folder's in 'saves' folder as backup).
+7. Copy and overwrite files in the game folder (its important MAKE SURE YOU OVERWRITE, please copy all the folder's in 'saves' folder as backup).
 
 ### SKLauncher / ATLauncher / Prism Launcher / MultiMC
 
 1. Import or select the installed Minecraft version.
 2. Ensure Fabric 1.21.1 is selected.
 3. Launch the game.
-4. Go to the folder in which the installation was created.
-5. Copy and overwrite files in the game folder (its important, please copy all the folder's in 'saves' folder as backup).
+4. Go to the folder in which the installation was created. (most probably in '%appdata%/.minecraft/versions')
+5. Copy and overwrite files in the game folder (its important MAKE SURE YOU OVERWRITE, please copy all the folder's in 'saves' folder as backup).
 
 ---
 
 ## Features
 
 * Fabric-based modpack
-* TLauncher compatible
+* All mods have been downloaded & modified from official source. (For cracked launcher support)
 * TLSkin & Cape compatibility fixes
-* Performance optimizations
+* Huge performance optimizations
 * Enhanced visuals
 * Easy installation
-* Minecraft 1.21.1 support
+* Supports Minecraft 1.21.1 Fabric
 
 ---
 
 ## Notes
 
-* A clean Minecraft installation is recommended for the best experience.
+* A clean Minecraft installation is recommended for the best experience. (Don't do it if you already have Minecraft/ any launcher installed)
 * Do not mix this modpack with other modpacks unless you know they are compatible.
-* If you encounter issues, create an Issue on this repository.
+* If you encounter issues, create an Issue on this repository. (please bring complete 
 
 ---
 
