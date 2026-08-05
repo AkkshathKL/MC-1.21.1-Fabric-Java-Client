@@ -88,11 +88,6 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
    ```text
    %appdata%/.minecraft/versions
    ```
-
-   Image for reference:
-
-   <img width="1678" height="1048" alt="scrnsht" src="https://github.com/user-attachments/assets/889c24c9-3a97-4ac5-af06-c1b1aac37bbe" />
-
 5. Press **Enter**.
 6. Copy the extracted **MC-1.21.1-Fabric-Java-Client** folder.
 9. Launch your preferred launcher.
