@@ -80,13 +80,13 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
 
 ### Clean Installation (Recommended)
 
-1. Download the latest release from the **Releases** section (or the links above).
+1. Download from the **Releases** section (or the links above).
 2. Extract the ZIP file using Windows Explorer, WinRAR, or 7-Zip.
-3. Go to File explorer and double click on the location bar.
-4. Type:
+3. Press 'Windows Key+ R'.
+4. Type/ paste-
 
    ```text
-   %appdata%
+   %appdata%/.minecraft/versions
    ```
 
    Image for reference:
@@ -94,14 +94,7 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
    <img width="1678" height="1048" alt="scrnsht" src="https://github.com/user-attachments/assets/889c24c9-3a97-4ac5-af06-c1b1aac37bbe" />
 
 5. Press **Enter**.
-6. Open the **.minecraft** folder.
-7. Open the **versions** folder.
-8. Copy the extracted **MC-1.21.1-Fabric-Java-Client** folder into:
-
-   ```text
-   %appdata%\.minecraft\versions
-   ```
-
+6. Copy the extracted **MC-1.21.1-Fabric-Java-Client** folder.
 9. Launch your preferred launcher.
 
 ### For TLauncher
