@@ -66,7 +66,7 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
 
 ---
 
-## Installation
+## Installation (Tlauncher recomended)
 
 **Install TLauncher:** [tlauncher.org](https://tlauncher.org/)
 
