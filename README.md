@@ -66,8 +66,7 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
 
 ---
 
-## Installation (Tlauncher recomended)
-
+## Installation  (Tlauncher recomended)
 **Install TLauncher:** [tlauncher.org](https://tlauncher.org/)
 
 ### MC Modpack Download Links
@@ -78,7 +77,7 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
 | High End Devices (TLauncher Only) | [Download](https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/High_End_Devices_Win11) |
 | For other Launchers / Official MC, not for TLauncher | [Download](https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/Multi_Distribution_Win11) |
 
-###  For TLauncher (Recommended)
+###  For TLauncher
 
 1. Download from the **Releases** section (or the links above).
 2. Extract the ZIP file using Windows Explorer, WinRAR, or 7-Zip.
