@@ -9,18 +9,13 @@ A performance and visual enhancement **Fabric modpack** for **Minecraft 1.21.1**
 I have configured this for Minecraft 1.21.1 and includes compatibility fixes for **TLSkin & Cape** users. It is intended to provide a smoother, more polished Minecraft experience while remaining easy to install.
 
 > [!NOTE]
+> This is the base modpack, new updates and mods available on: 
 > Letter/Word's at the end of the modpack has important meaning's.
->
 > Letter 'H' -> High-End Gaming Setup's
->
 > Letter 'L' -> Low-End Gaming Setup's (Most compatible)
->
 > Word 'Multi'-> Can import the modpack into other launcher's. (Compatibile, not recomended it using TLauncher)
->
 > Version 1-A -> Tlauncher 'H' version
->
 > Version 1-B -> Tlauncher 'L' version
->
 > Version 2-A -> Other Launcher's 'Multi' version
 
 > [!CAUTION]
