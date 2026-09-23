@@ -6,7 +6,7 @@ A performance and visual enhancement **Fabric modpack** for **Minecraft 1.21.1**
 
 ## About
 
-I have configured this for Minecraft 1.21.1 and includes compatibility fixes for **TLSkin & Cape** users. It is intended to provide a smoother, more polished Minecraft experience while remaining easy to install.
+We have configured this for Minecraft 1.21.1 and includes compatibility fixes for **TLSkin & Cape** users. It is intended to provide a smoother, more polished Minecraft experience while remaining easy to install.
 
 > [!NOTE]
 > This is the base modpack, new updates and mods available on: 
@@ -73,6 +73,7 @@ I have configured this for Minecraft 1.21.1 and includes compatibility fixes for
 
 | Setup | Link |
 |---|---|
+| Nightfall Modpack Installer(Windows Only) | [Download](https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/raw/refs/heads/main/Nightfall%20Modpack%20Installer.exe)
 | Low End Devices (TLauncher Only) | [Download](https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/Low_End_Devices_Win11) |
 | High End Devices (TLauncher Only) | [Download](https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/High_End_Devices_Win11) |
 | For other Launchers / Official MC, not for TLauncher | [Download](https://github.com/AkkshathKL/MC-1.21.1-Fabric-Java-Client/releases/tag/Multi_Distribution_Win11) |
