@@ -29,8 +29,9 @@ We have configured this for Minecraft 1.21.1 and includes compatibility fixes fo
 >
 > **TLauncher is pretty much safe to install**, most antiviruses flag it as a PUP and Adware because it has an optional browser installer advertisment (Opera GX) in it. You can opt out if you dont want it.
 > It have been tested for malware, the current version (V2.9371) is pretty much safe to download.
+>
 > Our Nightfall Modpack Installer has been flagged suspicious too, because the file is unsigned. It's 100% clean.
->On windows defender it may appear as Trojan- "executes dangerous command's from an attacker". It show's this because it download's an "unknown file" from GitHub (its the modpack!)
+> On windows defender it may appear as Trojan- "executes dangerous command's from an attacker". It show's this because it download's an "unknown file" from GitHub (its the modpack!)
 
 ### Malware Test Results
 
