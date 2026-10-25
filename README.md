@@ -138,7 +138,7 @@ We have configured this for Minecraft 1.21.1 and includes compatibility fixes fo
 
 * A clean Minecraft installation is recommended for the best experience. (Don't do it if you already have Minecraft/ any launcher installed)
 * Do not mix this modpack with other modpacks unless you know they are compatible.
-* If you encounter issues, create an Issue on this repository. (please bring complete 
+* If you encounter issues, create an Issue on this repository. (first try to figure out and solve the issue yourself)
 
 ---
 
